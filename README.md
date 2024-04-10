@@ -1,1 +1,1 @@
-# Patronizing_Condescending_Language-_Detection
+# Patronizing_Condescending_Language_Detection
